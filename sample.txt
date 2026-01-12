@@ -1,1 +1,3 @@
 This is my first sample commit on GitHub.
+Added second line for merge demonstration.
+
